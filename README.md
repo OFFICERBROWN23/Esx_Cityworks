@@ -14,3 +14,6 @@ Cityworks Job for ESX
 
 Thanks to Anthony for esx_garbage, wich is the base of all of this.
 https://github.com/AnthonyEl
+
+
+NOTE THE ESX_Secuity need to be changed in the array before loading or importing
