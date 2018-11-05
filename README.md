@@ -17,3 +17,5 @@ https://github.com/AnthonyEl
 
 
 NOTE THE ESX_Secuity need to be changed in the array before loading or importing
+
+Sql array fixed by JE_Studios
